@@ -1,8 +1,8 @@
 import requests # İnternetteki sitelere (veya API'lere) bağlanmamızı sağlayan kütüphane
 
 # Bilgilerimizi tanımlıyoruz (Buraya kendi bilgilerini tırnak içine yazmalısın)
-TOKEN = "8191658705:AAEHDvO_yFAkvF0vB6RQoSGU3ATyAdHo9t0"
-CHAT_ID = "8146950832"
+TOKEN = "BURAYA_KENDI_TOKEN_NUMARANIZI_YAZIN"
+CHAT_ID = "BURAYA_HEDEF_ID_YAZIN"
 
 # Göndereceğimiz ilk test mesajı
 mesaj = "Merhaba! Ben Python üzerinden gönderilen ilk robot mesajıyım. 🤖"
