@@ -4,8 +4,8 @@ import random
 import schedule
 import time
 
-TOKEN = "8191658705:AAEHDvO_yFAkvF0vB6RQoSGU3ATyAdHo9t0"
-CHAT_ID = "8146950832"
+TOKEN = "BURAYA_KENDI_TOKEN_NUMARANIZI_YAZIN"
+CHAT_ID = "BURAYA_HEDEF_ID_YAZIN"
 
 def surpriz_mesaj_gonder():
     # 1. JSON dosyasını aç ve içindeki sözleri oku
